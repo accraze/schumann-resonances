@@ -1,0 +1,3 @@
+#+TITLE: schumann-resonances
+* schumann-resonances
+A simple scala lib to calculate the [[wikipedia:Schumann_resonances][ELF Schumann Resonances]]
